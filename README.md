@@ -1,8 +1,9 @@
-Motivational Quotes
-This repository contains a collection of motivational and inspiring quotes. The quotes are stored in a JSON file for ease of use and adaptability.
+<h2>Motivational Quotes</h2>
 
-Quotes
-The following quotes are included in this repository:
+<br>This repository contains a collection of motivational and inspiring quotes. The quotes are stored in a JSON file for ease of use and adaptability.
+
+<br>Quotes
+<br>The following quotes are included in this repository:
 
 "Once you have things you longed for when you couldn't have them, they no longer become important. The important things cannot be achieved monetarily. You want to be able to get up every morning and put on your underpants without holding on to the side of the nightstand." - Judge Judy
 "They say a clean cut heals soonest. There’s nothing sadder to me than associations held together by nothing but the glue of postage stamps. If you can’t see or hear or touch a man, it’s best to let him go." - Lee (East of Eden)
